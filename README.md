@@ -29,9 +29,9 @@ Este script é útil para:
 
 Digite os valores solicitados:
 
-Raio da órbita inicial (ex: 6578)
+Digite o raio da órbita inicial (r1) em km: (ex: 6578)
 
-Raio da órbita final (ex: 42250)
+Digite o raio da órbita inicial (r2) em km: (ex: 42250)
 
 ![Texto alternativo da imagem](orbita.png)
 
