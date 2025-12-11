@@ -32,3 +32,9 @@ Digite os valores solicitados:
 Raio da órbita inicial (ex: 6578)
 
 Raio da órbita final (ex: 42250)
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Você pode usar, modificar e redistribuir este código livremente, desde que mencione o autor original.
+
+[Clique aqui para ver a licença completa.](https://opensource.org/licenses/MIT)
