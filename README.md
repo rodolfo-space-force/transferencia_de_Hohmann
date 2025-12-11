@@ -35,6 +35,8 @@ Digite o raio da órbita inicial (r2) em km: (ex: 42250)
 
 ![Texto alternativo da imagem](orbita.png)
 
+You can reach me at rmilhomem[at]gmail[dot]com or connect on [LinkedIn](https://www.linkedin.com/in/rodolfo-space-force/) for collaborations.
+
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Você pode usar, modificar e redistribuir este código livremente, desde que mencione o autor original.
